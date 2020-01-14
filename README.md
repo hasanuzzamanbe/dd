@@ -1,6 +1,7 @@
 # dd
 Laravel like dd helper for WordPress
-A debug plugin for WordPress Developer which is made by an organization named <a href="www.wpmanageninja.com">wpmanageninja</a>.
+A debug plugin for WordPress Developer which is made by an organization named 
+<a href="https://www.wpmanageninja.com" target="_blank">wpmanageninja</a>.
 
 ## How to use:
 * Download or clone from this repository (<a href="https://github.com/hasanuzzamanbe/dd/archive/master.zip">Quick Download</a>)
