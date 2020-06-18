@@ -59,13 +59,6 @@ class ClassLoader
     private $missingClasses = array();
     private $apcuPrefix;
 
-    private static $registeredLoaders = array();
-
-    public function __construct($vendorDir = null)
-    {
-        $this->vendorDir = $vendorDir;
-    }
-
     public function getPrefixes()
     {
         if (!empty($this->prefixesPsr0)) {
